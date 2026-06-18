@@ -146,8 +146,6 @@ Healthcare organizations often struggle with:
 - Data Analytics
 - Business Intelligence
 - Data Visualization
-- Machine Learning
-- AI & Automation
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=1E88E5&height=120&section=footer"/>
